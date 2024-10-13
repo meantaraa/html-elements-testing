@@ -8,4 +8,6 @@ It includes examples of:
 - Form Elements: Inputs, buttons, and selectors.
 - Table Elements: Basic table structure with captions.
 # Usage
-Simply open the index.html file in your browser to view the demo.
+Simply open the index.html file in your browser to view the demo. You can explore different sections like text, media, and forms to see how each element works.
+
+
