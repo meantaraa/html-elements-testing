@@ -1,5 +1,6 @@
 # Overview
-This project demonstrates the use of various HTML elements, styled with modern CSS. It includes examples of:
+This project demonstrates the use of various HTML elements, styled with modern CSS. 
+It includes examples of:
 
 - Text Elements: Paragraphs, headings, blockquotes, and more.
 - List Elements: Ordered, unordered, and description lists.
